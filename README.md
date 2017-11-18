@@ -1,6 +1,6 @@
 # Gaussian Blur in Parallel using Cuda
 
-A simple command line tool written in C++ and Cuda for applying the Guassian Blur.
+A simple command line tool written in C and Cuda for applying the Guassian Blur.
 
 ## Sample
 
